@@ -3,7 +3,7 @@ With one year of internship experience as a Full Stack Web Developer, I have gai
 
 Additionally, I have a solid foundation in testing, including unit testing using Jasmine-karma and automation testing using the Selenium library. This allowed me to ensure the quality and reliability of the software solutions I developed. Alongside my technical skills, I have experience with HTML, CSS, JavaScript, jQuery, and JSON, enabling me to create engaging and responsive user interfaces. Throughout my internship, I consistently demonstrated strong problem-solving abilities and the capability to write clean and maintainable code.<br><br>
 
-I am currently seeking opportunities as a Junior/Associate Software Developer, where I can contribute my technical expertise and continue expanding my skill set. I am eager to apply my industry experience and collaborate with a dynamic team to drive the success of software development projects.<br><br>
+I am currently seeking opportunities as a  Full-Stack/Software Developer Coop for 2025, where I can contribute my technical expertise and continue expanding my skill set. I am eager to apply my industry experience and collaborate with a dynamic team to drive the success of software development projects.<br><br>
 
 Feel free to ask me about my experience in software development and web development, my technical skills, or my approach to problem-solving. I am always eager to share my knowledge and learn from others.<br><br>
 
