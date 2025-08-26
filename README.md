@@ -1,5 +1,14 @@
 # 💫 About Me:
-Hi there! I'm Aum Soni, a curious and hands-on software developer currently pursuing my Honours Bachelor’s degree in Software Development at Seneca Polytechnic in Toronto.<br><br>I started my journey by completing a 3-year diploma in Computer Programming and Analysis, where I got introduced to full-stack development. Over time, I’ve learned how to build real applications from scratch, both independently and as part of a team. I’ve been fortunate to do two co-ops so far, one at an Ontario Ministry and another at Canada Post, where I worked on meaningful projects like digitizing public forms and reimagining login experiences for real users.<br><br>I enjoy working with Angular, React, Next.js, Spring Boot, and databases like MySQL and PostgreSQL. But more than that, I enjoy the process of solving problems, learning as I go, and shipping things that are both useful and well-crafted.<br><br>These days, I’m exploring Next.js 14+, improving my design-to-code workflow, and strengthening my DSA fundamentals. I'm about to start my third co-op as a Jr. Technical Analyst with the Ontario Public Service, and I’m excited to grow even more through that experience.<br><br>Outside of code, I enjoy learning from others, trying out side projects, and being involved in my college dev club where we run events and work on projects together.<br><br>Thanks for stopping by my profile, always open to meaningful conversations and collaborations!
+Hi there! I'm Aum Soni, a curious and hands-on software developer based in Toronto, currently in my Honours Bachelor’s degree in Software Development at Seneca Polytechnic.  
+
+I began my journey with a 3-year diploma in Computer Programming and Analysis, where I was introduced to full-stack development. Since then, I’ve had the chance to work on real projects through three co-op terms - building accessible web forms at an Ontario Ministry, creating a proof-of-concept login flow at Canada Post, and most recently, strengthening automated testing frameworks as a Junior Technical Analyst with the Ministry of Transportation.  
+
+I enjoy working with **Angular, React, Next.js, and Spring Boot**, along with databases like **MySQL and PostgreSQL**. What I value most is the process of solving problems, learning along the way, and building things that are both useful and reliable.  
+
+These days, I’m exploring **real-time collaboration tools**, improving my skills with **Next.js 14+**, and continuing to sharpen my fundamentals in **data structures and algorithms**. I’m also involved in my college’s dev club, where I get to learn from peers and contribute to small projects.  
+
+Thanks for visiting my profile and I am always happy to connect, learn, and collaborate!  
+
 
 
 ## 🌐 Socials:
